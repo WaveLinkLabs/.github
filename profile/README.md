@@ -2,7 +2,7 @@
 
 An 'Invite-Only' creator to partner platform, enabling influencers to receive partnership deals with a click of a button.
 
-### Our Projects 📚
+### Our Projects
 
 - **WaveLink Platform** - A platform to connect influencers with brands.
 
