@@ -1,4 +1,4 @@
-## Welcome to WaveLink! 🚀
+## Welcome to Wave Link 🚀
 
 An 'Invite-Only' creator to partner platform, enabling influencers to receive partnership deals with a click of a button.
 
